@@ -2,6 +2,7 @@
 
 namespace SOLID_Fundamentals
 {
+    // DIP
     // Абстракции
     public interface IEmailService
     {

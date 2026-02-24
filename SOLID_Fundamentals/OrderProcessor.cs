@@ -4,6 +4,7 @@ using System.Text;
 
 namespace SOLID_Fundamentals
 {
+    // SRP
     public class OrderProcessor
     {
         private readonly List<Order> _orders = new(); // тут теперь private
