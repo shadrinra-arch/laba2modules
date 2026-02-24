@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "laba2Modules/1.0.0": {
+        "dependencies": {
+          "SOLID_Fundamentals": "1.0.0"
+        },
+        "runtime": {
+          "laba2Modules.dll": {}
+        }
+      },
+      "SOLID_Fundamentals/1.0.0": {
+        "runtime": {
+          "SOLID_Fundamentals.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba2Modules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOLID_Fundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

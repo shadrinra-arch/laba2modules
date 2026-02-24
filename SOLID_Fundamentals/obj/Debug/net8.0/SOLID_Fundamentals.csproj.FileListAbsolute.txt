@@ -1,0 +1,11 @@
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\bin\Debug\net8.0\SOLID_Fundamentals.deps.json
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\bin\Debug\net8.0\SOLID_Fundamentals.dll
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\bin\Debug\net8.0\SOLID_Fundamentals.pdb
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.AssemblyInfoInputs.cache
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.AssemblyInfo.cs
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.csproj.CoreCompileInputs.cache
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.dll
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\refint\SOLID_Fundamentals.dll
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\SOLID_Fundamentals.pdb
+G:\Modules3KURS\laba2Modules\SOLID_Fundamentals\obj\Debug\net8.0\ref\SOLID_Fundamentals.dll

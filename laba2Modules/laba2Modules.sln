@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2Modules", "laba2Modules.csproj", "{FC0D5F9E-13D2-4DC6-9428-795E0A852D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Fundamentals", "..\SOLID_Fundamentals\SOLID_Fundamentals.csproj", "{7CF64CFC-45FE-7035-CB18-F109D3DD1547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0D5F9E-13D2-4DC6-9428-795E0A852D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0D5F9E-13D2-4DC6-9428-795E0A852D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0D5F9E-13D2-4DC6-9428-795E0A852D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0D5F9E-13D2-4DC6-9428-795E0A852D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF64CFC-45FE-7035-CB18-F109D3DD1547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F7386B-D2A0-478F-9581-59367AFAB7B5}
+	EndGlobalSection
+EndGlobal
